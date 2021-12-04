@@ -1,2 +1,2 @@
-# test_w_activity
-Просто тыкалка активити 
+# test_w_actions
+Просто тыкалка actions
